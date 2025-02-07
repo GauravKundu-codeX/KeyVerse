@@ -1,0 +1,56 @@
+body{
+  background-image: url(https://img2.wallspic.com/crops/8/7/7/8/7/178778/178778-art-synthwave-world-light-purple-7680x4320.png);
+  background-size: cover;
+}
+#virkey{
+  padding-top: 50px;
+}
+#chooseType{
+  margin-left: 500px;
+}
+#btn1,#btn2,#btn3{
+  padding: 10px;
+  
+}
+#btn1{
+  margin-right: 30px;
+  margin-top: 50px;
+  margin-left: 50px;
+  text-decoration: none;
+}
+#btn2{
+  margin-right: 30px;
+  text-decoration: none;
+}
+#btn3{
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+#btn1,#btn2,#btn3 {
+  color: white;
+  background-color: #6b5f5f;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.3s; 
+  Box-shadow : 2px 2px 2px white
+  
+}
+
+#btn1:hover {
+
+  transform: scale(1.1); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+#btn2:hover {
+
+  transform: scale(1.1); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
+#btn3:hover {
+
+  transform: scale(1.1); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}
